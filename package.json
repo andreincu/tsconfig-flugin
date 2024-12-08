@@ -9,6 +9,7 @@
     "flugin"
     
   ],
+  "files": ["tsconfig.json"],
   "peerDependencies": {
     "typescript": "5.x"
   }
