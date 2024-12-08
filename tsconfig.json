@@ -1,0 +1,21 @@
+{
+    "exclude": ["node_modules"],
+    "compilerOptions": {
+      "module": "ESNext",
+      "target": "ES2017",
+      "moduleResolution": "bundler",
+      "declaration": true,
+      "strict": true,
+      "noEmit": true,
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "verbatimModuleSyntax": true,
+      "isolatedModules": true,
+      "resolveJsonModule": true,
+      "removeComments": false,
+      "composite": false,
+      "noErrorTruncation": true,
+      "forceConsistentCasingInFileNames": true
+    }
+  }
+  
