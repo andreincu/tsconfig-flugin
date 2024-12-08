@@ -3,7 +3,7 @@
 Add the package to your `"devDependencies"`:
 
 ```sh
-npm install --save-dev flugin-tsconfig
+npm i -D flugin-tsconfig
 ```
 
 Extend your `tsconfig.json`:
