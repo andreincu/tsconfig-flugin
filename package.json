@@ -7,5 +7,9 @@
   "keywords": [
     "tsconfig",
     "flugin"
-  ]
+    
+  ],
+  "peerDependencies": {
+    "typescript": "5.x"
+  }
 }
