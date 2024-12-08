@@ -1,6 +1,9 @@
 {
   "name": "@tsconfig/flugin",
   "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A based TSConfig for working on plugins for Figma, or utils for it.",
   "main": "tsconfig.json",
   "license": "MIT",
